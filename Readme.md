@@ -3,6 +3,15 @@
 ## Descripción
 Aplicación de Alarma es una herramienta elegante desarrollada en Python con una interfaz gráfica intuitiva. Permite a los usuarios configurar alarmas personalizadas con títulos y mensajes específicos, ofreciendo un diseño moderno con modos claro y oscuro.
 
+## Capturas de Pantalla
+
+### Modo claro
+![Captura de pantalla de la calculadora en modo claro](https://github.com/VictorNivelo/Alarma/blob/main/Imagenes/Alarma_Modo-Claro.png)
+
+### Modo oscuro
+![Captura de pantalla de la calculadora en modo oscuro](https://github.com/VictorNivelo/Alarma/blob/main/Imagenes/Alarma_Modo-Oscuro.png)
+
+
 ## Características
 - Interfaz gráfica de usuario intuitiva
 - Configuración de hora y minutos para la alarma
